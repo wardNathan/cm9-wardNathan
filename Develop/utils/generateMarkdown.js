@@ -1,4 +1,4 @@
-function renderLicenseBadge(license) {
+function renderLicenseBadge(License) {
 
   if (License == 'None'){
     return '';
@@ -59,15 +59,6 @@ function renderLicenseBadge(license) {
 
     ## Description
     ${data.Description}
-
-    ## Table of Contents
-    - [License](#License)
-    - [Description](#Description)
-    - [Installation](#installation)
-    - [Usage](#Usage)
-    - [Credits](#credits)
-    - [Tests](#Tests)
-    - [Questions](#Questions)
     
     ## Installation
     ${data.Installation}
@@ -83,7 +74,7 @@ function renderLicenseBadge(license) {
     ${data.Tests}
     
     ## Questions
-    If you would like to ask me any questions. Contact me at my email address below or you can check out my Github profile.
+    Please feel free to contact me either on Github or at my email.
     - Github user name- ${data.Github}
     - Email-${data.Email}
     
