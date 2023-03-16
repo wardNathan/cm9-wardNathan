@@ -64,7 +64,6 @@ function renderLicenseBadge(License) {
     ${data.Installation}
 
     ## Usage
-    ![alttext](./assets/images/{add name of picture here})
     ${data.Usage}
     
     ## Credits

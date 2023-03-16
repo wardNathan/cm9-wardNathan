@@ -1,38 +1,37 @@
-    # README generator
+# README generator
 
-    ## License
+## License
 
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-    ## Description
+## Description
 
-    I wanted an easy way to enter in README information that formats it for me
+I wanted an easy way to enter in README information that formats it for me
     
-    ## Installation
+## Installation
 
-    Node and npm i inquirer@8.2.4 are required
+Node and npm i inquirer@8.2.4 are required
 
-    ## Usage
+## Usage
 
-    ![alttext](./assets/images/{add name of picture here})
-    First complete installation, then pull up terminal and enter cd Develop, then enter in "node index.js", follow prompts
+First complete installation, then pull up terminal and enter cd Develop, then enter in "node index.js", follow prompts
     
-    ## Credits
+## Credits
 
-    N/A
+N/A
 
-    ## Tests
+## Tests
 
-    N/A
+N/A
     
-    ## Questions
+## Questions
 
-    Please feel free to contact me either on Github or at my email.
-    - Github user name- wardNathan
-    - Email-xuserx98@gmail.com
+Please feel free to contact me either on Github or at my email.
+- Github user name- wardNathan
+- Email-xuserx98@gmail.com
     
-    ## Links and Images
-    
-    https://github.com/wardNathan/cm9-wardNathan
-    https://drive.google.com/file/d/1qUH7a7WejipXxUDqOoB8qNweJK7M9Ui7/view
-    ![alt text](./assets/2023-03-15.png)
+## Links and Images
+
+https://github.com/wardNathan/cm9-wardNathan
+https://drive.google.com/file/d/1qUH7a7WejipXxUDqOoB8qNweJK7M9Ui7/view
+![alt text](./assets/2023-03-15.png)
